@@ -1,2 +1,2 @@
 # sample
-sample project
+sample project in github
